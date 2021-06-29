@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 <h1>https://sputnikpine.github.io/</h1><br>
-<p>sorry，之前不会交作业，没有直接加上每个作业对应的网址</p>
+<p>sorry，之前不会交作业，没有直接加上每个作业对应的网址。<br>作业六和七在学习通交了文件。</p>
 You can use the [editor on GitHub](https://github.com/SputnikPine/SputnikPine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
